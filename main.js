@@ -10,7 +10,13 @@ color = "green";
 console.log(`Hi! my name is ${name} I'm ${age} years old. I love the color ${color}`);
 console.log(typeof name)
 
+
 let x;
 x = 100;
 let y; 
 y = 50;
+
+console.log(`${x}+${y} = ${(x+y)}`)
+console.log(`${x}/${y} = ${(x/y)}`)
+console.log(`${x}-${y} = ${(x-y)}`)
+console.log(`${x}*${y} = ${(x*y)}`)
